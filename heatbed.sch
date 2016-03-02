@@ -130,7 +130,7 @@
 </plain>
 <instances>
 <instance part="P+1" gate="1" x="2.54" y="76.2"/>
-<instance part="GND1" gate="1" x="2.54" y="50.8"/>
+<instance part="GND1" gate="1" x="2.54" y="55.88"/>
 </instances>
 <busses>
 </busses>
@@ -139,7 +139,7 @@
 <segment>
 <pinref part="P+1" gate="1" pin="+12V"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="2.54" y1="73.66" x2="2.54" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="73.66" x2="2.54" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
