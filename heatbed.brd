@@ -61,12 +61,15 @@
 <wire x1="188.9" y1="-0.02" x2="188.9" y2="304.98" width="0" layer="20"/>
 <wire x1="188.9" y1="304.98" x2="0" y2="305" width="0" layer="20"/>
 <wire x1="0" y1="305" x2="0" y2="0" width="0" layer="20"/>
-<hole x="182" y="7" drill="4"/>
-<hole x="7" y="7" drill="4"/>
-<hole x="7" y="152.5" drill="4"/>
-<hole x="182" y="152.5" drill="4"/>
-<hole x="182" y="298" drill="4"/>
-<hole x="7" y="298" drill="4"/>
+<hole x="182" y="7" drill="3.6"/>
+<hole x="7" y="7" drill="3.6"/>
+<hole x="7" y="152.5" drill="3.6"/>
+<hole x="182" y="152.5" drill="3.6"/>
+<hole x="182" y="298" drill="3.6"/>
+<hole x="7" y="298" drill="3.6"/>
+<hole x="93" y="262.75" drill="2.89"/>
+<hole x="96" y="262.75" drill="2.89"/>
+<hole x="94.5" y="262.75" drill="2.89"/>
 </plain>
 <libraries>
 </libraries>
